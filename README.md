@@ -21,6 +21,6 @@ new***technology***
 4. 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/img/https://github.com/Visal24/Ytproject/blob/master/img/YouTube-Logo.webp)
+    ![Youtube Logo](/img/YouTube-Logo.webp)
 
 3. Close the file.
