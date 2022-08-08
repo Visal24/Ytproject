@@ -17,3 +17,10 @@ new***technology***
     > A blockquote would look great below the second list item.
 
 * And here's the third list item.
+* 3. Update the title to match the name of your website.
+4. 1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/img/https://github.com/Visal24/Ytproject/blob/master/img/YouTube-Logo.webp)
+
+3. Close the file.
